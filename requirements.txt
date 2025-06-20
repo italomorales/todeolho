@@ -1,0 +1,6 @@
+apscheduler
+sqlalchemy
+pydantic
+requests
+json-log-formatter
+tenacity
